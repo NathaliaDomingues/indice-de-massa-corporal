@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: fonte1;
+    src: url(Stars-Regular.ttf);
+}
+
+body{
+    align-items: center;
+    text-align: center;
+    background-image: url(https://media4.giphy.com/media/TxVVB6PfWMjE4/200.webp?cid=790b7611pf8fp45cgrsulx87yos720wc958xnpo5gpt21n4f&ep=v1_gifs_search&rid=200.webp&ct=g);
+    color: #cd82ff;
+    margin-top: 15em;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1{
+    font-family: fonte1;
+    font-size: 4em;
+    color:  #cd82ff;
+}
