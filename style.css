@@ -12,7 +12,6 @@ body{
     color: #cd82ff;
     margin-top: 15em;
     font-family: Arial, Helvetica, sans-serif;
-
 }
 
 h1{
@@ -32,7 +31,8 @@ input{
     background-color: #cd82ff;
 color: aliceblue;
 border-radius: 2em;
-
+padding: 15px;
+margin: 10px;
 }
 
 p{
